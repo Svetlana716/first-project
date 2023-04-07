@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  min-height: 600px;
+  max-height: 756px;
+  height: 100vh;
+  position: relative;
+  align-items: center;
+  overflow: hidden;
+}
