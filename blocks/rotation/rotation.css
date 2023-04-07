@@ -8,5 +8,5 @@
 }
 
 .rotation  {
-  animation: rotation 5s infinite cubic-bezier(0.46, 0.03, 0.52, 0.96);
+  animation: rotation 20s infinite linear;
 }
